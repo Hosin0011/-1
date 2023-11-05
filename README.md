@@ -1,1 +1,2 @@
-# -1
+# -1print("Hello, World!")
+print("Cheers, Mate!")
